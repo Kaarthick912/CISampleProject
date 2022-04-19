@@ -2,6 +2,7 @@ package com.test;
 
 /**
  * Hello world!
+ * Sonar cloud testing
  *
  */
 public class App 
